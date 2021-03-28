@@ -16,7 +16,7 @@
 <div aligin=center>
   
   [![](https://img.shields.io/badge/Blog-green?style=flat&logo=blogger&logoColor=white&logoWidth=20)](https://velog.io/@chyoon0512)
-  [![](https://img.shields.io/badge/Mail-red?style=flat&logo=gmail&logoColor=white&logoWidth=20)](chyoon0512@gmail.com)
+  [![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&logoWidth=20)](https://www.instagram.com/chanho___/)
 
 </div>
 
