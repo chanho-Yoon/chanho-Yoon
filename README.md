@@ -13,5 +13,6 @@
 
 ### Connect
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
-	
+[![](https://img.shields.io/badge/Blog-green?style=flat&logo=blogger&logoColor=white&logoWidth=20)](https://velog.io/@chyoon0512)
+
+[![](https://img.shields.io/badge/Blog-green?style=flat&logo=blogger&logoColor=white&logoWidth=20)](https://velog.io/@chyoon0512)
