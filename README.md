@@ -4,8 +4,8 @@
 - 🧑‍💻현재 프론트엔드 개발자가 되기 위해 React와 JavaScript, HTML, CSS3를 공부하는 중입니다.
 ### 좋아하는 것들
 - ⌨️ Coding!!
-- 🏃 Running!!
-- 🏊 Swimming!!
+- 🏃 Running!! 🏊 Swimming!!
+- 🐱 Cat!!
 
 ### 2021년 올해의 큰 목표
 - 2021년 프론트엔드 주니어 개발자 되기
