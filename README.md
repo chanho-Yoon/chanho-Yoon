@@ -1,8 +1,8 @@
 ## 안녕하세요 윤찬호입니다~ 😄
 
 ### 함께 일하고 싶은 개발자가 되고 싶은 프론트엔드 개발자입니다!!
-- 🧑‍💻현재 프론트엔드 개발자가 되기 위해 React와 JavaScript, HTML, CSS3를 공부하는 중입니다.
-- Brandi 인턴으로 나가서 Backend Flask를 익히는 중입니다. 
+- 🧑‍💻현재 프론트엔드 개발자가 되기 위해 React와 JavaScript, HTML, CSS3를 공부하는 중입니다.Cancel changes
+- Brandi 인턴 진행중 (Backend Flask를 익히는 중입니다.) 
 
 ### 좋아하는 것들
 - ⌨️ Coding!!
