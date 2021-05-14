@@ -2,7 +2,7 @@
 
 ### 함께 일하고 싶은 개발자가 되고 싶은 프론트엔드 개발자입니다!!
 - 🧑‍💻현재 프론트엔드 개발자가 되기 위해 React와 JavaScript, HTML, CSS3를 공부하는 중입니다.Cancel changes
-- Brandi 인턴 진행중 (Backend Flask를 익히는 중입니다.) 
+- 현재는 취업 준비 중이며 기본적인 CS 지식과 React와 JS(ES6)에 대해 심도있게 공부하는 중 입니다.
 
 ### 좋아하는 것들
 - ⌨️ Coding!!
