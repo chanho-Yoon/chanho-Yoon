@@ -31,6 +31,9 @@
   [![](https://img.shields.io/badge/Hooks-61DAFB?logo=react&logoColor=white&logoWidth=20)]()
   [![](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&logoWidth=20)]()
   [![](https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white&logoWidth=20)]()
+</div>
+<div aligin=center>
+  
   [![](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&logoWidth=20)]()
   [![](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&logoWidth=20)]()
   [![](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&logoWidth=20)]()
