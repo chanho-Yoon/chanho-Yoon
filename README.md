@@ -8,9 +8,6 @@
 - 🏃 Running!! 🏊 Swimming!!
 - 🐱 Cat!!
 
-### 2021년 올해의 큰 목표
-- [x] 2021년 프론트엔드 개발자 되기
-
 ### Connect
 
 <div aligin=center>
