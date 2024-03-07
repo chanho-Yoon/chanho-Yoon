@@ -7,9 +7,10 @@
 - 🏃 Running!! 🏊 Swimming!!
 - 🐱 Cat!!
 
-### Connect
+### 끄적끄적
 
 <div aligin=center>
+  
   [![](https://img.shields.io/badge/GithubBlog-yellow?style=flat&logo=blogger&logoColor=white&logoWidth=20)](https://chanho-yoon.github.io)
   
 </div>
