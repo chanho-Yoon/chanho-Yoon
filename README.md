@@ -10,36 +10,35 @@
 ### Connect
 
 <div aligin=center>
-  
-  [![](https://img.shields.io/badge/Velog-green?style=flat&logo=blogger&logoColor=white&logoWidth=20)](https://velog.io/@chyoon0512)
   [![](https://img.shields.io/badge/GithubBlog-yellow?style=flat&logo=blogger&logoColor=white&logoWidth=20)](https://chanho-yoon.github.io)
-  [![](https://img.shields.io/badge/Tistory-black?style=flat&logo=blogger&logoColor=white&logoWidth=20)](https://studyingych.tistory.com)
   
 </div>
 
 ### Languages and Tools
 
 <div aligin=center>
-  
-  [![](https://img.shields.io/badge/ES6-F7DF1E?logo=javascript&logoColor=white&logoWidth=20)]()
+
+  [![](https://img.shields.io/badge/Next-181717?logo=nextdotjs&logoColor=white&logoWidth=20)]()
   [![](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&logoWidth=20)]()
-  [![](https://img.shields.io/badge/Hooks-61DAFB?logo=react&logoColor=white&logoWidth=20)]()
-  [![](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&logoWidth=20)]()
+  [![](https://img.shields.io/badge/ES6-F7DF1E?logo=javascript&logoColor=white&logoWidth=20)]()
   [![](https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white&logoWidth=20)]()
+  [![](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&logoWidth=20)]()
+  [![](https://img.shields.io/badge/recoil-3578E5?logo=recoil&logoColor=white&logoWidth=20)]()
 </div>
 <div aligin=center>
   
   [![](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&logoWidth=20)]()
   [![](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&logoWidth=20)]()
+  [![](https://img.shields.io/badge/storybook-FF4785?logo=storybook&logoColor=white&logoWidth=20)]()
   [![](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&logoWidth=20)]()
   [![](https://img.shields.io/badge/Styled_component-DB7093?logo=styled-components&logoColor=white&logoWidth=20)]()
+  [![](https://img.shields.io/badge/tailwindcss-06B6D4?logo=tailwindcss&logoColor=white&logoWidth=20)]()
 </div>
 <div aligin=center>
 
   [![](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&logoWidth=20)]()
   [![](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&logoWidth=20)]()
   [![](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&logoWidth=20)]()
-  [![](https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=white&logoWidth=20)]()
 </div>
 
 ### Simple language experience
